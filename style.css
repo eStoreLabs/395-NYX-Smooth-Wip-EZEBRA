@@ -23,7 +23,7 @@
       }
       #es-nyx.es-nyx .es-kv {
         min-height: 600px;
-        background-image: url(./img/kv-bg.png);
+        background-image: url(./img/kv-bg.webp);
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -65,7 +65,7 @@
       }
       #es-nyx.es-nyx .es-info {
         min-height: 650px;
-        background-image: url(./img/info-bg.png);
+        background-image: url(./img/info-bg.webp);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -87,7 +87,7 @@
         position: relative;
       }
       #es-nyx.es-nyx .es-info__listItem::before {
-        content: url(./img/tick.png);
+        content: url(./img/tick.webp);
         position: absolute;
         left: -50px;
       }
@@ -161,7 +161,7 @@
         margin-left: 70px;
       }
       #es-nyx.es-nyx .es-shades__title::before {
-        content: url(./img/arrow-5.png);
+        content: url(./img/arrow-5.webp);
         position: absolute;
         left: -120px;
         bottom: -100px;
@@ -285,7 +285,7 @@
         position: relative;
       }
       #es-nyx.es-nyx .es-cross__upperCtn::after {
-        content: url(./img/arrow-4.png);
+        content: url(./img/arrow-4.webp);
         position: absolute;
         left: 300px;
         bottom: -80px;
@@ -410,7 +410,7 @@
           position: relative;
         }
         #es-nyx.es-nyx .es-info__listItem::before {
-          content: url(./img/tick.png);
+          content: url(./img/tick.webp);
           position: absolute;
           left: -50px;
           top: -20px;
@@ -435,7 +435,7 @@
         }
         #es-nyx.es-nyx .es-ingr__text--1::before {
           content: "";
-          background-image: url(./img/arrow-1.png);
+          background-image: url(./img/arrow-1.webp);
           background-size: 160px 90px;
           width: 160px;
           height: 90px;
@@ -446,7 +446,7 @@
         }
         #es-nyx.es-nyx .es-ingr__text--2::before {
           content: "";
-          background-image: url(./img/arrow-2.png);
+          background-image: url(./img/arrow-2.webp);
           background-size: 100px 50px;
           width: 100px;
           height: 50px;
@@ -457,7 +457,7 @@
         }
         #es-nyx.es-nyx .es-ingr__text--3::before {
           content: "";
-          background-image: url(./img/arrow-3.png);
+          background-image: url(./img/arrow-3.webp);
           background-size: 100px 60px;
           width: 100px;
           height: 60px;
@@ -486,7 +486,7 @@
           margin-left: 70px;
         }
         #es-nyx.es-nyx .es-shades__title::before {
-          content: url(./img/arrow-5.png);
+          content: url(./img/arrow-5.webp);
           position: absolute;
           left: -120px;
           bottom: -100px;
@@ -660,7 +660,7 @@
           margin-left: 70px;
         }
         #es-nyx.es-nyx .es-shades__title::before {
-          content: url(./img/arrow-5.png);
+          content: url(./img/arrow-5.webp);
           position: absolute;
           left: -120px;
           bottom: -100px;
